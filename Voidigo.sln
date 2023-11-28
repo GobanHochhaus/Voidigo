@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voidigo", "Voidigo.csproj", "{5007FEF3-C76C-42F6-A95B-FDE7F7C92CD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5007FEF3-C76C-42F6-A95B-FDE7F7C92CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5007FEF3-C76C-42F6-A95B-FDE7F7C92CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5007FEF3-C76C-42F6-A95B-FDE7F7C92CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5007FEF3-C76C-42F6-A95B-FDE7F7C92CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1131F4C9-7381-48C8-9B83-5A7596A572D0}
+	EndGlobalSection
+EndGlobal
